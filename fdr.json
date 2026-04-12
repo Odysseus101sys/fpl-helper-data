@@ -1,37 +1,5 @@
 [
   {
-    "fixture": "Sunderland AFC vs Tottenham Hotspur FC",
-    "date": "2026-04-12T13:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Crystal Palace FC vs Newcastle United FC",
-    "date": "2026-04-12T13:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Nottingham Forest FC vs Aston Villa FC",
-    "date": "2026-04-12T13:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Chelsea FC vs Manchester City FC",
-    "date": "2026-04-12T15:30:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 2
-    }
-  },
-  {
     "fixture": "Manchester United FC vs Leeds United FC",
     "date": "2026-04-13T19:00:00Z",
     "difficulty": {
@@ -437,6 +405,14 @@
     "difficulty": {
       "homeFDR": 3,
       "awayFDR": 5
+    }
+  },
+  {
+    "fixture": "Manchester City FC vs Crystal Palace FC",
+    "date": "2026-05-22T00:00:00Z",
+    "difficulty": {
+      "homeFDR": 4,
+      "awayFDR": 1
     }
   },
   {
