@@ -1,77 +1,5 @@
 [
   {
-    "fixture": "Tottenham Hotspur FC vs Leeds United FC",
-    "date": "2026-05-11T19:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "Manchester City FC vs Crystal Palace FC",
-    "date": "2026-05-13T19:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Aston Villa FC vs Liverpool FC",
-    "date": "2026-05-15T19:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Manchester United FC vs Nottingham Forest FC",
-    "date": "2026-05-17T11:30:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Brentford FC vs Crystal Palace FC",
-    "date": "2026-05-17T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Everton FC vs Sunderland AFC",
-    "date": "2026-05-17T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Leeds United FC vs Brighton & Hove Albion FC",
-    "date": "2026-05-17T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Wolverhampton Wanderers FC vs Fulham FC",
-    "date": "2026-05-17T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "Newcastle United FC vs West Ham United FC",
-    "date": "2026-05-17T16:30:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 4
-    }
-  },
-  {
     "fixture": "Arsenal FC vs Burnley FC",
     "date": "2026-05-18T19:00:00Z",
     "difficulty": {
@@ -131,8 +59,8 @@
     "fixture": "Fulham FC vs Newcastle United FC",
     "date": "2026-05-24T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 3
+      "homeFDR": 3,
+      "awayFDR": 4
     }
   },
   {
@@ -140,14 +68,14 @@
     "date": "2026-05-24T15:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 1
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Manchester City FC vs Aston Villa FC",
     "date": "2026-05-24T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 1,
       "awayFDR": 1
     }
   },

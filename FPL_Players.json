@@ -9,38 +9,38 @@
     {
       "name": "Verbruggen",
       "team": "Brighton",
-      "influence": 888.6,
+      "influence": 896.2,
       "price": 4.6
+    },
+    {
+      "name": "Roefs",
+      "team": "Sunderland",
+      "influence": 869.2,
+      "price": 4.8
     },
     {
       "name": "Pickford",
       "team": "Everton",
-      "influence": 861.4,
+      "influence": 868.4,
       "price": 5.6
     },
     {
       "name": "Kelleher",
       "team": "Brentford",
-      "influence": 849,
+      "influence": 863.8,
       "price": 4.8
-    },
-    {
-      "name": "Roefs",
-      "team": "Sunderland",
-      "influence": 844.8,
-      "price": 4.8
-    },
-    {
-      "name": "Leno",
-      "team": "Fulham",
-      "influence": 786,
-      "price": 4.9
     },
     {
       "name": "Henderson",
       "team": "Crystal Palace",
-      "influence": 785,
+      "influence": 800.8,
       "price": 5.1
+    },
+    {
+      "name": "Leno",
+      "team": "Fulham",
+      "influence": 799.6,
+      "price": 5
     },
     {
       "name": "Petrović",
@@ -49,16 +49,16 @@
       "price": 4.6
     },
     {
+      "name": "Martinez",
+      "team": "Aston Villa",
+      "influence": 769.8,
+      "price": 5.1
+    },
+    {
       "name": "Sánchez",
       "team": "Chelsea",
       "influence": 762.8,
       "price": 4.8
-    },
-    {
-      "name": "Martinez",
-      "team": "Aston Villa",
-      "influence": 749.4,
-      "price": 5.1
     },
     {
       "name": "Vicario",
@@ -69,26 +69,26 @@
     {
       "name": "Sels",
       "team": "Nott'm Forest",
-      "influence": 667,
+      "influence": 705.6,
       "price": 4.6
     },
     {
       "name": "Donnarumma",
       "team": "Man City",
-      "influence": 632.2,
+      "influence": 651.2,
       "price": 5.6
-    },
-    {
-      "name": "Lammens",
-      "team": "Man Utd",
-      "influence": 597.6,
-      "price": 5.1
     },
     {
       "name": "Pope",
       "team": "Newcastle",
-      "influence": 589,
+      "influence": 643.8,
       "price": 5
+    },
+    {
+      "name": "Lammens",
+      "team": "Man Utd",
+      "influence": 617.4,
+      "price": 5.1
     },
     {
       "name": "Areola",
@@ -99,8 +99,20 @@
     {
       "name": "Raya",
       "team": "Arsenal",
-      "influence": 539.6,
-      "price": 6.1
+      "influence": 539.4,
+      "price": 6.2
+    },
+    {
+      "name": "Darlow",
+      "team": "Leeds",
+      "influence": 491.2,
+      "price": 4
+    },
+    {
+      "name": "José Sá",
+      "team": "Wolves",
+      "influence": 469.4,
+      "price": 4.2
     },
     {
       "name": "A.Becker",
@@ -109,21 +121,9 @@
       "price": 5.4
     },
     {
-      "name": "José Sá",
-      "team": "Wolves",
-      "influence": 445.6,
-      "price": 4.2
-    },
-    {
-      "name": "Darlow",
-      "team": "Leeds",
-      "influence": 431,
-      "price": 4
-    },
-    {
       "name": "Hermansen",
       "team": "West Ham",
-      "influence": 360.4,
+      "influence": 400.8,
       "price": 4.2
     },
     {
@@ -141,58 +141,70 @@
   ],
   "Defenders": [
     {
+      "name": "Virgil",
+      "team": "Liverpool",
+      "influence": 1147.2,
+      "price": 6
+    },
+    {
       "name": "Senesi",
       "team": "Bournemouth",
       "influence": 1066.6,
       "price": 5.2
     },
     {
-      "name": "Virgil",
-      "team": "Liverpool",
-      "influence": 1057.4,
-      "price": 6.1
-    },
-    {
       "name": "Tarkowski",
       "team": "Everton",
-      "influence": 947.4,
-      "price": 5.7
+      "influence": 972.2,
+      "price": 5.8
     },
     {
       "name": "Van Hecke",
       "team": "Brighton",
-      "influence": 945,
-      "price": 4.6
+      "influence": 963,
+      "price": 4.7
     },
     {
       "name": "Guéhi",
       "team": "Man City",
-      "influence": 875.8,
+      "influence": 888.4,
       "price": 5.1
     },
     {
       "name": "Thiaw",
       "team": "Newcastle",
-      "influence": 828.8,
+      "influence": 850.4,
+      "price": 4.9
+    },
+    {
+      "name": "Lacroix",
+      "team": "Crystal Palace",
+      "influence": 821.8,
+      "price": 5.2
+    },
+    {
+      "name": "Collins",
+      "team": "Brentford",
+      "influence": 813.4,
       "price": 4.9
     },
     {
       "name": "Gabriel",
       "team": "Arsenal",
-      "influence": 802.6,
+      "influence": 806.8,
       "price": 7.3
     },
     {
       "name": "Andersen",
       "team": "Fulham",
       "influence": 790.6,
-      "price": 4.5
+      "price": 4.4
     },
     {
-      "name": "Lacroix",
-      "team": "Crystal Palace",
-      "influence": 782,
-      "price": 5.2
+      "name": "N.Williams",
+      "team": "Nott'm Forest",
+      "influence": 787.6,
+      "price": 4.8
     },
     {
       "name": "Truffert",
@@ -201,52 +213,46 @@
       "price": 4.7
     },
     {
-      "name": "Collins",
-      "team": "Brentford",
-      "influence": 779.2,
-      "price": 4.9
-    },
-    {
-      "name": "N.Williams",
-      "team": "Nott'm Forest",
-      "influence": 758,
-      "price": 4.8
-    },
-    {
       "name": "Konaté",
       "team": "Liverpool",
-      "influence": 750.6,
-      "price": 5.5
-    },
-    {
-      "name": "Alderete",
-      "team": "Sunderland",
-      "influence": 747,
-      "price": 4.1
-    },
-    {
-      "name": "Keane",
-      "team": "Everton",
-      "influence": 721.6,
-      "price": 4.5
+      "influence": 765.4,
+      "price": 5.4
     },
     {
       "name": "Mavropanos",
       "team": "West Ham",
-      "influence": 721.6,
+      "influence": 754,
       "price": 4.5
     },
     {
-      "name": "Estève",
-      "team": "Burnley",
-      "influence": 720.8,
-      "price": 3.9
+      "name": "Keane",
+      "team": "Everton",
+      "influence": 752.4,
+      "price": 4.5
+    },
+    {
+      "name": "Alderete",
+      "team": "Sunderland",
+      "influence": 749,
+      "price": 4.1
     },
     {
       "name": "Richards",
       "team": "Crystal Palace",
-      "influence": 711.4,
+      "influence": 727.2,
       "price": 4.4
+    },
+    {
+      "name": "Estève",
+      "team": "Burnley",
+      "influence": 721.8,
+      "price": 3.8
+    },
+    {
+      "name": "Mukiele",
+      "team": "Sunderland",
+      "influence": 712.2,
+      "price": 4.6
     },
     {
       "name": "Chalobah",
@@ -255,94 +261,100 @@
       "price": 5.4
     },
     {
-      "name": "Mukiele",
-      "team": "Sunderland",
-      "influence": 698.4,
-      "price": 4.6
+      "name": "Rodon",
+      "team": "Leeds",
+      "influence": 688.8,
+      "price": 3.9
     },
     {
       "name": "Struijk",
       "team": "Leeds",
-      "influence": 675,
-      "price": 4.3
+      "influence": 685.4,
+      "price": 4.2
     },
     {
       "name": "Matheus N.",
       "team": "Man City",
-      "influence": 673.4,
+      "influence": 681.8,
       "price": 5.3
     },
     {
       "name": "Ballard",
       "team": "Sunderland",
       "influence": 662.8,
-      "price": 4.7
+      "price": 4.6
     },
     {
       "name": "Van de Ven",
       "team": "Spurs",
-      "influence": 647.4,
+      "influence": 655.2,
       "price": 4.4
     },
     {
       "name": "Milenković",
       "team": "Nott'm Forest",
-      "influence": 641.2,
+      "influence": 653,
       "price": 5.1
-    },
-    {
-      "name": "Rodon",
-      "team": "Leeds",
-      "influence": 640.2,
-      "price": 3.9
-    },
-    {
-      "name": "O'Reilly",
-      "team": "Man City",
-      "influence": 634.2,
-      "price": 5.3
-    },
-    {
-      "name": "Cash",
-      "team": "Aston Villa",
-      "influence": 618.4,
-      "price": 4.7
-    },
-    {
-      "name": "Dunk",
-      "team": "Brighton",
-      "influence": 614,
-      "price": 4.5
     },
     {
       "name": "Pedro Porro",
       "team": "Spurs",
-      "influence": 613.6,
+      "influence": 645.2,
       "price": 5.2
-    },
-    {
-      "name": "Van den Berg",
-      "team": "Brentford",
-      "influence": 611.6,
-      "price": 4.4
     },
     {
       "name": "Mitchell",
       "team": "Crystal Palace",
-      "influence": 599.2,
+      "influence": 640,
       "price": 5
+    },
+    {
+      "name": "Van den Berg",
+      "team": "Brentford",
+      "influence": 639.6,
+      "price": 4.4
+    },
+    {
+      "name": "Cash",
+      "team": "Aston Villa",
+      "influence": 635,
+      "price": 4.7
+    },
+    {
+      "name": "O'Reilly",
+      "team": "Man City",
+      "influence": 634.6,
+      "price": 5.3
+    },
+    {
+      "name": "Dunk",
+      "team": "Brighton",
+      "influence": 633.6,
+      "price": 4.5
     },
     {
       "name": "Konsa",
       "team": "Aston Villa",
-      "influence": 588.4,
+      "influence": 601.4,
       "price": 4.4
+    },
+    {
+      "name": "Muñoz",
+      "team": "Crystal Palace",
+      "influence": 593.4,
+      "price": 5.9
     },
     {
       "name": "Kayode",
       "team": "Brentford",
-      "influence": 582.2,
+      "influence": 591.4,
       "price": 4.6
+    },
+    {
+      "name": "S.Bueno",
+      "team": "Wolves",
+      "influence": 591.2,
+      "price": 4.4
     },
     {
       "name": "O'Brien",
@@ -357,16 +369,34 @@
       "price": 5
     },
     {
-      "name": "S.Bueno",
-      "team": "Wolves",
-      "influence": 571.6,
+      "name": "Bassey",
+      "team": "Fulham",
+      "influence": 562.6,
       "price": 4.4
+    },
+    {
+      "name": "Diouf",
+      "team": "West Ham",
+      "influence": 560.8,
+      "price": 4.1
+    },
+    {
+      "name": "Botman",
+      "team": "Newcastle",
+      "influence": 560.2,
+      "price": 4.9
     },
     {
       "name": "H.Bueno",
       "team": "Wolves",
-      "influence": 550,
+      "influence": 554.2,
       "price": 4.3
+    },
+    {
+      "name": "Shaw",
+      "team": "Man Utd",
+      "influence": 550.8,
+      "price": 4.5
     },
     {
       "name": "Rúben",
@@ -381,22 +411,16 @@
       "price": 6.1
     },
     {
-      "name": "Muñoz",
-      "team": "Crystal Palace",
-      "influence": 545.6,
-      "price": 5.9
-    },
-    {
       "name": "Hill",
       "team": "Bournemouth",
       "influence": 545.4,
       "price": 4.2
     },
     {
-      "name": "Bassey",
-      "team": "Fulham",
-      "influence": 543.4,
-      "price": 4.4
+      "name": "Mykolenko",
+      "team": "Everton",
+      "influence": 542.6,
+      "price": 4.9
     },
     {
       "name": "Murillo",
@@ -405,58 +429,40 @@
       "price": 5.2
     },
     {
-      "name": "Diouf",
-      "team": "West Ham",
-      "influence": 538.6,
-      "price": 4.1
-    },
-    {
-      "name": "Saliba",
-      "team": "Arsenal",
-      "influence": 535,
-      "price": 6.2
-    },
-    {
-      "name": "Botman",
-      "team": "Newcastle",
-      "influence": 532.4,
-      "price": 4.9
-    },
-    {
-      "name": "Mykolenko",
-      "team": "Everton",
-      "influence": 528.8,
-      "price": 4.9
-    },
-    {
       "name": "Hall",
       "team": "Newcastle",
-      "influence": 525.6,
+      "influence": 539.6,
       "price": 5.3
     },
     {
       "name": "Dalot",
       "team": "Man Utd",
-      "influence": 515.4,
+      "influence": 535.8,
       "price": 4.5
     },
     {
-      "name": "Shaw",
-      "team": "Man Utd",
-      "influence": 509.4,
-      "price": 4.5
-    },
-    {
-      "name": "Burn",
-      "team": "Newcastle",
-      "influence": 507.4,
-      "price": 5
+      "name": "Saliba",
+      "team": "Arsenal",
+      "influence": 533,
+      "price": 6.3
     },
     {
       "name": "Krejčí",
       "team": "Wolves",
-      "influence": 502,
+      "influence": 527.2,
       "price": 4.5
+    },
+    {
+      "name": "Bijol",
+      "team": "Leeds",
+      "influence": 514,
+      "price": 3.9
+    },
+    {
+      "name": "Burn",
+      "team": "Newcastle",
+      "influence": 512.4,
+      "price": 5
     },
     {
       "name": "J.Timber",
@@ -465,21 +471,21 @@
       "price": 6
     },
     {
+      "name": "F.Kadıoğlu",
+      "team": "Brighton",
+      "influence": 498.4,
+      "price": 4.5
+    },
+    {
       "name": "Hume",
       "team": "Sunderland",
-      "influence": 495.2,
+      "influence": 496.8,
       "price": 4.5
     },
     {
       "name": "Walker",
       "team": "Burnley",
-      "influence": 483.6,
-      "price": 4.4
-    },
-    {
-      "name": "F.Kadıoğlu",
-      "team": "Brighton",
-      "influence": 482.2,
+      "influence": 483.8,
       "price": 4.4
     },
     {
@@ -489,16 +495,16 @@
       "price": 5.6
     },
     {
+      "name": "Justin",
+      "team": "Leeds",
+      "influence": 452.2,
+      "price": 4
+    },
+    {
       "name": "Fofana",
       "team": "Chelsea",
       "influence": 448.2,
       "price": 4.4
-    },
-    {
-      "name": "Bijol",
-      "team": "Leeds",
-      "influence": 442.6,
-      "price": 3.9
     },
     {
       "name": "Gudmundsson",
@@ -519,16 +525,16 @@
       "price": 4.8
     },
     {
-      "name": "Wan-Bissaka",
-      "team": "West Ham",
-      "influence": 425,
-      "price": 4.1
-    },
-    {
       "name": "Kerkez",
       "team": "Liverpool",
-      "influence": 424.6,
+      "influence": 431.2,
       "price": 5.6
+    },
+    {
+      "name": "Wan-Bissaka",
+      "team": "West Ham",
+      "influence": 430,
+      "price": 4.1
     },
     {
       "name": "Bogle",
@@ -549,10 +555,10 @@
       "price": 4.5
     },
     {
-      "name": "Justin",
-      "team": "Leeds",
-      "influence": 412.6,
-      "price": 4
+      "name": "Dorgu",
+      "team": "Man Utd",
+      "influence": 409.2,
+      "price": 4.1
     },
     {
       "name": "A.Jimenez",
@@ -561,15 +567,21 @@
       "price": 4.5
     },
     {
-      "name": "Dorgu",
-      "team": "Man Utd",
-      "influence": 403,
-      "price": 4.1
+      "name": "Ajer",
+      "team": "Brentford",
+      "influence": 401.2,
+      "price": 4.4
+    },
+    {
+      "name": "Digne",
+      "team": "Aston Villa",
+      "influence": 400.2,
+      "price": 4.5
     },
     {
       "name": "Mosquera",
       "team": "Wolves",
-      "influence": 396.4,
+      "influence": 396.6,
       "price": 4.3
     },
     {
@@ -579,22 +591,10 @@
       "price": 4.1
     },
     {
-      "name": "Ajer",
-      "team": "Brentford",
-      "influence": 384.4,
-      "price": 4.4
-    },
-    {
       "name": "Todibo",
       "team": "West Ham",
-      "influence": 380.6,
+      "influence": 383.4,
       "price": 4.3
-    },
-    {
-      "name": "Digne",
-      "team": "Aston Villa",
-      "influence": 377,
-      "price": 4.5
     },
     {
       "name": "Ekdal",
@@ -603,28 +603,58 @@
       "price": 3.8
     },
     {
+      "name": "Gvardiol",
+      "team": "Man City",
+      "influence": 365,
+      "price": 5.8
+    },
+    {
+      "name": "Canvot",
+      "team": "Crystal Palace",
+      "influence": 362.4,
+      "price": 4.5
+    },
+    {
+      "name": "Reinildo",
+      "team": "Sunderland",
+      "influence": 362.4,
+      "price": 3.8
+    },
+    {
+      "name": "Maguire",
+      "team": "Man Utd",
+      "influence": 361.2,
+      "price": 4.4
+    },
+    {
+      "name": "Danso",
+      "team": "Spurs",
+      "influence": 361.2,
+      "price": 4.2
+    },
+    {
+      "name": "Robinson",
+      "team": "Fulham",
+      "influence": 358.6,
+      "price": 4.9
+    },
+    {
       "name": "Humphreys",
       "team": "Burnley",
       "influence": 356,
       "price": 3.9
     },
     {
-      "name": "Gvardiol",
-      "team": "Man City",
-      "influence": 354.6,
-      "price": 5.8
-    },
-    {
       "name": "Lewis-Potter",
       "team": "Brentford",
-      "influence": 353.4,
+      "influence": 356,
       "price": 4.8
     },
     {
-      "name": "Reinildo",
-      "team": "Sunderland",
-      "influence": 348,
-      "price": 3.8
+      "name": "Castagne",
+      "team": "Fulham",
+      "influence": 355.4,
+      "price": 4.3
     },
     {
       "name": "Toti",
@@ -633,28 +663,16 @@
       "price": 4.2
     },
     {
-      "name": "Danso",
-      "team": "Spurs",
-      "influence": 339.8,
-      "price": 4.2
-    },
-    {
-      "name": "Castagne",
-      "team": "Fulham",
-      "influence": 336,
+      "name": "Morato",
+      "team": "Nott'm Forest",
+      "influence": 345,
       "price": 4.3
     },
     {
-      "name": "Maguire",
-      "team": "Man Utd",
-      "influence": 334.2,
-      "price": 4.4
-    },
-    {
-      "name": "Canvot",
-      "team": "Crystal Palace",
-      "influence": 328,
-      "price": 4.5
+      "name": "Pau",
+      "team": "Aston Villa",
+      "influence": 320,
+      "price": 4.3
     },
     {
       "name": "Yoro",
@@ -669,6 +687,12 @@
       "price": 4.4
     },
     {
+      "name": "De Cuyper",
+      "team": "Brighton",
+      "influence": 317.6,
+      "price": 4.3
+    },
+    {
       "name": "Agbadou",
       "team": "Wolves",
       "influence": 312.2,
@@ -677,26 +701,8 @@
     {
       "name": "Maatsen",
       "team": "Aston Villa",
-      "influence": 307.2,
+      "influence": 309.2,
       "price": 4.2
-    },
-    {
-      "name": "Robinson",
-      "team": "Fulham",
-      "influence": 302.6,
-      "price": 4.9
-    },
-    {
-      "name": "Pau",
-      "team": "Aston Villa",
-      "influence": 302.4,
-      "price": 4.3
-    },
-    {
-      "name": "De Cuyper",
-      "team": "Brighton",
-      "influence": 300,
-      "price": 4.3
     },
     {
       "name": "Schär",
@@ -705,10 +711,22 @@
       "price": 5.2
     },
     {
-      "name": "Morato",
-      "team": "Nott'm Forest",
-      "influence": 286.6,
-      "price": 4.3
+      "name": "Martinez",
+      "team": "Man Utd",
+      "influence": 290.6,
+      "price": 4.8
+    },
+    {
+      "name": "Trippier",
+      "team": "Newcastle",
+      "influence": 289.2,
+      "price": 4.9
+    },
+    {
+      "name": "Khusanov",
+      "team": "Man City",
+      "influence": 288.6,
+      "price": 5.4
     },
     {
       "name": "Aina",
@@ -719,14 +737,8 @@
     {
       "name": "Spence",
       "team": "Spurs",
-      "influence": 280.2,
+      "influence": 280.6,
       "price": 4.1
-    },
-    {
-      "name": "Khusanov",
-      "team": "Man City",
-      "influence": 278.8,
-      "price": 5.4
     },
     {
       "name": "De Ligt",
@@ -735,16 +747,16 @@
       "price": 4.9
     },
     {
-      "name": "Trippier",
-      "team": "Newcastle",
-      "influence": 276.6,
-      "price": 4.9
-    },
-    {
       "name": "Calafiori",
       "team": "Arsenal",
       "influence": 270,
       "price": 5.6
+    },
+    {
+      "name": "Geertruida",
+      "team": "Sunderland",
+      "influence": 269.6,
+      "price": 4.5
     },
     {
       "name": "Diakité",
@@ -761,20 +773,14 @@
     {
       "name": "Mings",
       "team": "Aston Villa",
-      "influence": 256,
+      "influence": 256.2,
       "price": 4.3
     },
     {
-      "name": "Geertruida",
-      "team": "Sunderland",
-      "influence": 254.4,
-      "price": 4.5
-    },
-    {
-      "name": "Martinez",
-      "team": "Man Utd",
-      "influence": 251,
-      "price": 4.8
+      "name": "Veltman",
+      "team": "Brighton",
+      "influence": 247,
+      "price": 4.3
     },
     {
       "name": "J.Cuenca",
@@ -785,7 +791,7 @@
     {
       "name": "Tuanzebe",
       "team": "Burnley",
-      "influence": 242.6,
+      "influence": 242.2,
       "price": 3.9
     },
     {
@@ -793,12 +799,6 @@
       "team": "Chelsea",
       "influence": 240.4,
       "price": 4
-    },
-    {
-      "name": "Veltman",
-      "team": "Brighton",
-      "influence": 239,
-      "price": 4.3
     },
     {
       "name": "Heaven",
@@ -829,44 +829,56 @@
     {
       "name": "B.Fernandes",
       "team": "Man Utd",
-      "influence": 1156,
+      "influence": 1193,
       "price": 10.4
     },
     {
       "name": "Casemiro",
       "team": "Man Utd",
-      "influence": 896.8,
+      "influence": 903.6,
       "price": 5.9
-    },
-    {
-      "name": "Garner",
-      "team": "Everton",
-      "influence": 845.6,
-      "price": 5.2
-    },
-    {
-      "name": "Semenyo",
-      "team": "Man City",
-      "influence": 840.4,
-      "price": 8.1
     },
     {
       "name": "Anderson",
       "team": "Nott'm Forest",
-      "influence": 830,
+      "influence": 903.2,
       "price": 5.6
+    },
+    {
+      "name": "Semenyo",
+      "team": "Man City",
+      "influence": 880.8,
+      "price": 8.1
+    },
+    {
+      "name": "Garner",
+      "team": "Everton",
+      "influence": 860,
+      "price": 5.2
     },
     {
       "name": "Szoboszlai",
       "team": "Liverpool",
-      "influence": 800.6,
+      "influence": 845.8,
       "price": 7
+    },
+    {
+      "name": "Gibbs-White",
+      "team": "Nott'm Forest",
+      "influence": 806.4,
+      "price": 7.5
     },
     {
       "name": "Rice",
       "team": "Arsenal",
-      "influence": 798.6,
+      "influence": 802.6,
       "price": 7.2
+    },
+    {
+      "name": "Bruno G.",
+      "team": "Newcastle",
+      "influence": 779.6,
+      "price": 6.9
     },
     {
       "name": "Enzo",
@@ -875,58 +887,64 @@
       "price": 6.4
     },
     {
-      "name": "Bruno G.",
-      "team": "Newcastle",
-      "influence": 756.8,
-      "price": 6.8
-    },
-    {
-      "name": "Gibbs-White",
-      "team": "Nott'm Forest",
-      "influence": 754.8,
-      "price": 7.6
-    },
-    {
-      "name": "Wilson",
-      "team": "Fulham",
-      "influence": 688.8,
-      "price": 5.9
-    },
-    {
       "name": "Rogers",
       "team": "Aston Villa",
-      "influence": 680.6,
+      "influence": 746.2,
       "price": 7.4
-    },
-    {
-      "name": "Gravenberch",
-      "team": "Liverpool",
-      "influence": 673.8,
-      "price": 5.4
-    },
-    {
-      "name": "Xhaka",
-      "team": "Sunderland",
-      "influence": 665.4,
-      "price": 5.1
     },
     {
       "name": "E.Le Fée",
       "team": "Sunderland",
-      "influence": 644.6,
+      "influence": 698,
       "price": 4.8
     },
     {
-      "name": "Stach",
-      "team": "Leeds",
-      "influence": 630,
-      "price": 4.8
+      "name": "Wilson",
+      "team": "Fulham",
+      "influence": 690.2,
+      "price": 5.9
+    },
+    {
+      "name": "Gravenberch",
+      "team": "Liverpool",
+      "influence": 676.2,
+      "price": 5.4
     },
     {
       "name": "Cunha",
       "team": "Man Utd",
-      "influence": 622.6,
+      "influence": 675.8,
       "price": 8.1
+    },
+    {
+      "name": "Xhaka",
+      "team": "Sunderland",
+      "influence": 675.2,
+      "price": 5.1
+    },
+    {
+      "name": "Stach",
+      "team": "Leeds",
+      "influence": 650,
+      "price": 4.8
+    },
+    {
+      "name": "M.Fernandes",
+      "team": "West Ham",
+      "influence": 621.2,
+      "price": 5.5
+    },
+    {
+      "name": "Dewsbury-Hall",
+      "team": "Everton",
+      "influence": 613,
+      "price": 5.3
+    },
+    {
+      "name": "Cherki",
+      "team": "Man City",
+      "influence": 603.4,
+      "price": 6.6
     },
     {
       "name": "Saka",
@@ -935,70 +953,58 @@
       "price": 10
     },
     {
-      "name": "M.Fernandes",
-      "team": "West Ham",
-      "influence": 599.2,
-      "price": 5.5
-    },
-    {
-      "name": "Dewsbury-Hall",
-      "team": "Everton",
-      "influence": 592.8,
-      "price": 5.2
-    },
-    {
       "name": "Ndiaye",
       "team": "Everton",
-      "influence": 590.2,
-      "price": 6.2
+      "influence": 594.2,
+      "price": 6.3
+    },
+    {
+      "name": "Mbeumo",
+      "team": "Man Utd",
+      "influence": 593.4,
+      "price": 8.3
     },
     {
       "name": "Zubimendi",
       "team": "Arsenal",
-      "influence": 585.2,
-      "price": 5
+      "influence": 587.2,
+      "price": 4.9
     },
     {
       "name": "Tavernier",
       "team": "Bournemouth",
       "influence": 584.2,
-      "price": 5.4
-    },
-    {
-      "name": "Cherki",
-      "team": "Man City",
-      "influence": 582.4,
-      "price": 6.6
+      "price": 5.3
     },
     {
       "name": "Scott",
       "team": "Bournemouth",
       "influence": 578.6,
-      "price": 5
+      "price": 4.9
     },
     {
       "name": "Anthony",
       "team": "Burnley",
-      "influence": 577.4,
+      "influence": 576.4,
       "price": 5
-    },
-    {
-      "name": "Mbeumo",
-      "team": "Man Utd",
-      "influence": 565.4,
-      "price": 8.3
-    },
-    {
-      "name": "J.Palhinha",
-      "team": "Spurs",
-      "influence": 559,
-      "price": 5.5
     },
     {
       "name": "Ampadu",
       "team": "Leeds",
-      "influence": 545,
+      "influence": 574.2,
       "price": 4.9
+    },
+    {
+      "name": "Foden",
+      "team": "Man City",
+      "influence": 570.2,
+      "price": 8
+    },
+    {
+      "name": "J.Palhinha",
+      "team": "Spurs",
+      "influence": 568,
+      "price": 5.5
     },
     {
       "name": "Caicedo",
@@ -1007,46 +1013,64 @@
       "price": 5.7
     },
     {
+      "name": "Doku",
+      "team": "Man City",
+      "influence": 532.6,
+      "price": 6.5
+    },
+    {
       "name": "Gakpo",
       "team": "Liverpool",
       "influence": 532.4,
       "price": 7.3
     },
     {
-      "name": "Doku",
-      "team": "Man City",
-      "influence": 528,
-      "price": 6.5
-    },
-    {
-      "name": "Foden",
-      "team": "Man City",
-      "influence": 522.6,
-      "price": 8
-    },
-    {
       "name": "Wirtz",
       "team": "Liverpool",
-      "influence": 519.2,
+      "influence": 520.8,
       "price": 8.3
     },
     {
       "name": "Damsgaard",
       "team": "Brentford",
-      "influence": 512,
+      "influence": 516.2,
       "price": 5.6
     },
     {
-      "name": "M.Salah",
-      "team": "Liverpool",
-      "influence": 497.6,
-      "price": 14
+      "name": "O.Dango",
+      "team": "Brentford",
+      "influence": 507.4,
+      "price": 5.6
+    },
+    {
+      "name": "Souček",
+      "team": "West Ham",
+      "influence": 504,
+      "price": 5.7
     },
     {
       "name": "Schade",
       "team": "Brentford",
-      "influence": 497.2,
+      "influence": 499.2,
       "price": 6.8
+    },
+    {
+      "name": "M.Salah",
+      "team": "Liverpool",
+      "influence": 498.4,
+      "price": 14
+    },
+    {
+      "name": "Iwobi",
+      "team": "Fulham",
+      "influence": 497.6,
+      "price": 6.1
+    },
+    {
+      "name": "Bernardo",
+      "team": "Man City",
+      "influence": 496.2,
+      "price": 6.2
     },
     {
       "name": "Palmer",
@@ -1055,34 +1079,40 @@
       "price": 10.3
     },
     {
+      "name": "Wharton",
+      "team": "Crystal Palace",
+      "influence": 495.4,
+      "price": 5
+    },
+    {
       "name": "Trossard",
       "team": "Arsenal",
       "influence": 493.2,
-      "price": 6.5
-    },
-    {
-      "name": "Souček",
-      "team": "West Ham",
-      "influence": 492,
-      "price": 5.7
-    },
-    {
-      "name": "Bernardo",
-      "team": "Man City",
-      "influence": 490.6,
-      "price": 6.2
-    },
-    {
-      "name": "Iwobi",
-      "team": "Fulham",
-      "influence": 486.2,
-      "price": 6.1
+      "price": 6.6
     },
     {
       "name": "J.Gomes",
       "team": "Wolves",
-      "influence": 479.2,
+      "influence": 486.6,
       "price": 5.3
+    },
+    {
+      "name": "Minteh",
+      "team": "Brighton",
+      "influence": 482.6,
+      "price": 5.5
+    },
+    {
+      "name": "Sarr",
+      "team": "Crystal Palace",
+      "influence": 476.6,
+      "price": 6.4
+    },
+    {
+      "name": "Aaronson",
+      "team": "Leeds",
+      "influence": 473.8,
+      "price": 5.4
     },
     {
       "name": "Neto",
@@ -1091,58 +1121,46 @@
       "price": 7
     },
     {
-      "name": "Minteh",
-      "team": "Brighton",
-      "influence": 469.6,
-      "price": 5.5
-    },
-    {
       "name": "Wieffer",
       "team": "Brighton",
       "influence": 467.4,
       "price": 4.9
     },
     {
-      "name": "Aaronson",
-      "team": "Leeds",
-      "influence": 456.8,
-      "price": 5.4
-    },
-    {
       "name": "Mac Allister",
       "team": "Liverpool",
-      "influence": 444.2,
-      "price": 6.2
+      "influence": 460.4,
+      "price": 6.1
+    },
+    {
+      "name": "McGinn",
+      "team": "Aston Villa",
+      "influence": 454.2,
+      "price": 5.3
+    },
+    {
+      "name": "Yarmoliuk",
+      "team": "Brentford",
+      "influence": 446,
+      "price": 5
     },
     {
       "name": "Okafor",
       "team": "Leeds",
       "influence": 438.8,
-      "price": 5.6
+      "price": 5.5
     },
     {
       "name": "Gomez",
       "team": "Brighton",
-      "influence": 437.2,
+      "influence": 438.2,
       "price": 4.9
     },
     {
-      "name": "O.Dango",
+      "name": "Jensen",
       "team": "Brentford",
-      "influence": 435.4,
-      "price": 5.7
-    },
-    {
-      "name": "Sarr",
-      "team": "Crystal Palace",
-      "influence": 434.2,
-      "price": 6.4
-    },
-    {
-      "name": "Wharton",
-      "team": "Crystal Palace",
-      "influence": 433,
-      "price": 5
+      "influence": 426.8,
+      "price": 4.9
     },
     {
       "name": "Berge",
@@ -1151,27 +1169,27 @@
       "price": 4.9
     },
     {
-      "name": "Jensen",
-      "team": "Brentford",
-      "influence": 422.2,
-      "price": 4.9
-    },
-    {
-      "name": "Yarmoliuk",
-      "team": "Brentford",
-      "influence": 419.8,
-      "price": 5
-    },
-    {
-      "name": "McGinn",
+      "name": "Tielemans",
       "team": "Aston Villa",
-      "influence": 419.4,
-      "price": 5.3
+      "influence": 418.4,
+      "price": 5.9
+    },
+    {
+      "name": "Sangaré",
+      "team": "Nott'm Forest",
+      "influence": 414.8,
+      "price": 4.9
     },
     {
       "name": "Sessegnon",
       "team": "Fulham",
       "influence": 413.8,
+      "price": 5.4
+    },
+    {
+      "name": "Summerville",
+      "team": "West Ham",
+      "influence": 411.4,
       "price": 5.4
     },
     {
@@ -1181,39 +1199,39 @@
       "price": 4.8
     },
     {
-      "name": "Sangaré",
-      "team": "Nott'm Forest",
-      "influence": 407.6,
-      "price": 4.9
-    },
-    {
-      "name": "Tielemans",
-      "team": "Aston Villa",
-      "influence": 405.8,
-      "price": 5.9
+      "name": "Amad",
+      "team": "Man Utd",
+      "influence": 407.8,
+      "price": 6.2
     },
     {
       "name": "André",
       "team": "Wolves",
-      "influence": 404.8,
+      "influence": 407.4,
       "price": 5.2
     },
     {
-      "name": "Amad",
-      "team": "Man Utd",
-      "influence": 403.8,
-      "price": 6.2
+      "name": "Barnes",
+      "team": "Newcastle",
+      "influence": 402.8,
+      "price": 6.1
     },
     {
-      "name": "Summerville",
-      "team": "West Ham",
-      "influence": 398.2,
-      "price": 5.4
+      "name": "Buendía",
+      "team": "Aston Villa",
+      "influence": 399,
+      "price": 5.3
+    },
+    {
+      "name": "Tonali",
+      "team": "Newcastle",
+      "influence": 398,
+      "price": 5.3
     },
     {
       "name": "Ugochukwu",
       "team": "Burnley",
-      "influence": 396.6,
+      "influence": 396.4,
       "price": 5
     },
     {
@@ -1223,16 +1241,10 @@
       "price": 7.3
     },
     {
-      "name": "Buendía",
-      "team": "Aston Villa",
-      "influence": 392.6,
-      "price": 5.3
-    },
-    {
-      "name": "Tonali",
-      "team": "Newcastle",
-      "influence": 392,
-      "price": 5.3
+      "name": "Groß",
+      "team": "Brighton",
+      "influence": 389.4,
+      "price": 5.6
     },
     {
       "name": "Gana",
@@ -1243,19 +1255,13 @@
     {
       "name": "Eze",
       "team": "Arsenal",
-      "influence": 381,
+      "influence": 380.8,
       "price": 7.3
-    },
-    {
-      "name": "Barnes",
-      "team": "Newcastle",
-      "influence": 379.4,
-      "price": 6.1
     },
     {
       "name": "Florentino",
       "team": "Burnley",
-      "influence": 379.2,
+      "influence": 380,
       "price": 5
     },
     {
@@ -1277,12 +1283,6 @@
       "price": 5.7
     },
     {
-      "name": "Groß",
-      "team": "Brighton",
-      "influence": 365.4,
-      "price": 5.6
-    },
-    {
       "name": "Adams",
       "team": "Bournemouth",
       "influence": 361.6,
@@ -1291,8 +1291,20 @@
     {
       "name": "Ayari",
       "team": "Brighton",
-      "influence": 358,
+      "influence": 359.8,
       "price": 4.8
+    },
+    {
+      "name": "Mainoo",
+      "team": "Man Utd",
+      "influence": 351.6,
+      "price": 4.7
+    },
+    {
+      "name": "C.Jones",
+      "team": "Liverpool",
+      "influence": 351,
+      "price": 5.4
     },
     {
       "name": "Xavi",
@@ -1319,28 +1331,34 @@
       "price": 6.3
     },
     {
+      "name": "Sadiki",
+      "team": "Sunderland",
+      "influence": 341.6,
+      "price": 4.9
+    },
+    {
       "name": "Reijnders",
       "team": "Man City",
       "influence": 340,
       "price": 5
     },
     {
-      "name": "Sadiki",
-      "team": "Sunderland",
-      "influence": 339.8,
+      "name": "Georginio",
+      "team": "Brighton",
+      "influence": 337,
+      "price": 5.6
+    },
+    {
+      "name": "Janelt",
+      "team": "Brentford",
+      "influence": 335.8,
       "price": 4.9
     },
     {
-      "name": "C.Jones",
-      "team": "Liverpool",
-      "influence": 333.8,
-      "price": 5.4
-    },
-    {
-      "name": "Mainoo",
-      "team": "Man Utd",
-      "influence": 333.4,
-      "price": 4.7
+      "name": "Henderson",
+      "team": "Brentford",
+      "influence": 334,
+      "price": 5
     },
     {
       "name": "Kudus",
@@ -1349,22 +1367,16 @@
       "price": 6.4
     },
     {
-      "name": "Georginio",
-      "team": "Brighton",
-      "influence": 331.8,
-      "price": 5.6
+      "name": "Bentancur",
+      "team": "Spurs",
+      "influence": 330.4,
+      "price": 5.2
     },
     {
-      "name": "Janelt",
-      "team": "Brentford",
-      "influence": 329.2,
-      "price": 4.9
-    },
-    {
-      "name": "Henderson",
-      "team": "Brentford",
-      "influence": 328,
-      "price": 5
+      "name": "J.Murphy",
+      "team": "Newcastle",
+      "influence": 329.8,
+      "price": 5.9
     },
     {
       "name": "Kamara",
@@ -1379,22 +1391,28 @@
       "price": 5.9
     },
     {
+      "name": "Lukić",
+      "team": "Fulham",
+      "influence": 317.6,
+      "price": 4.9
+    },
+    {
       "name": "P.M.Sarr",
       "team": "Spurs",
       "influence": 314.8,
       "price": 4.5
     },
     {
-      "name": "Bentancur",
-      "team": "Spurs",
-      "influence": 313.4,
+      "name": "Hinshelwood",
+      "team": "Brighton",
+      "influence": 308.4,
       "price": 5.2
     },
     {
-      "name": "J.Murphy",
-      "team": "Newcastle",
-      "influence": 311.6,
-      "price": 5.9
+      "name": "Hutchinson",
+      "team": "Nott'm Forest",
+      "influence": 306.4,
+      "price": 5.4
     },
     {
       "name": "Ødegaard",
@@ -1409,27 +1427,9 @@
       "price": 5.3
     },
     {
-      "name": "Hutchinson",
-      "team": "Nott'm Forest",
-      "influence": 301.4,
-      "price": 5.4
-    },
-    {
-      "name": "Hinshelwood",
-      "team": "Brighton",
-      "influence": 300.6,
-      "price": 5.1
-    },
-    {
-      "name": "Lukić",
-      "team": "Fulham",
-      "influence": 295.8,
-      "price": 4.9
-    },
-    {
       "name": "Yeremy",
       "team": "Crystal Palace",
-      "influence": 293.2,
+      "influence": 303.4,
       "price": 5.8
     },
     {
@@ -1437,6 +1437,12 @@
       "team": "Man City",
       "influence": 292.6,
       "price": 5.9
+    },
+    {
+      "name": "Longstaff",
+      "team": "Leeds",
+      "influence": 291.8,
+      "price": 4.8
     },
     {
       "name": "Laurent",
@@ -1451,21 +1457,27 @@
       "price": 6.1
     },
     {
-      "name": "Longstaff",
-      "team": "Leeds",
-      "influence": 285.6,
-      "price": 4.8
-    },
-    {
       "name": "Smith Rowe",
       "team": "Fulham",
-      "influence": 274,
+      "influence": 284.2,
       "price": 5.6
+    },
+    {
+      "name": "Tel",
+      "team": "Spurs",
+      "influence": 282.6,
+      "price": 6.2
+    },
+    {
+      "name": "J.Ramsey",
+      "team": "Newcastle",
+      "influence": 282,
+      "price": 5.3
     },
     {
       "name": "Chukwueze",
       "team": "Fulham",
-      "influence": 271.6,
+      "influence": 274,
       "price": 5.3
     },
     {
@@ -1475,10 +1487,22 @@
       "price": 5.4
     },
     {
+      "name": "Lerma",
+      "team": "Crystal Palace",
+      "influence": 267.4,
+      "price": 4.9
+    },
+    {
       "name": "Rayan",
       "team": "Bournemouth",
       "influence": 263.6,
       "price": 5.4
+    },
+    {
+      "name": "Dominguez",
+      "team": "Nott'm Forest",
+      "influence": 259.6,
+      "price": 5
     },
     {
       "name": "Gray",
@@ -1487,39 +1511,27 @@
       "price": 4.8
     },
     {
-      "name": "J.Ramsey",
-      "team": "Newcastle",
-      "influence": 250,
-      "price": 5.3
-    },
-    {
-      "name": "Tel",
-      "team": "Spurs",
-      "influence": 249.2,
-      "price": 6.2
-    },
-    {
-      "name": "Lerma",
-      "team": "Crystal Palace",
-      "influence": 242.2,
+      "name": "Talbi",
+      "team": "Sunderland",
+      "influence": 238.6,
       "price": 4.9
     },
     {
       "name": "Hannibal",
       "team": "Burnley",
-      "influence": 238.4,
+      "influence": 237.6,
       "price": 4.7
     },
     {
-      "name": "Talbi",
-      "team": "Sunderland",
-      "influence": 238.4,
-      "price": 4.9
+      "name": "Iroegbunam",
+      "team": "Everton",
+      "influence": 233.6,
+      "price": 4.8
     },
     {
-      "name": "Dominguez",
-      "team": "Nott'm Forest",
-      "influence": 236.8,
+      "name": "Kamada",
+      "team": "Crystal Palace",
+      "influence": 231.8,
       "price": 5
     },
     {
@@ -1529,34 +1541,28 @@
       "price": 5
     },
     {
-      "name": "Iroegbunam",
-      "team": "Everton",
-      "influence": 228.4,
-      "price": 4.8
-    },
-    {
       "name": "Christie",
       "team": "Bournemouth",
       "influence": 226.6,
       "price": 4.9
     },
     {
-      "name": "Kamada",
-      "team": "Crystal Palace",
-      "influence": 216,
-      "price": 5
-    },
-    {
       "name": "Johnson",
       "team": "Crystal Palace",
-      "influence": 213.8,
+      "influence": 223.4,
       "price": 6.5
     },
     {
       "name": "Kevin",
       "team": "Fulham",
-      "influence": 212.2,
+      "influence": 214.8,
       "price": 5.7
+    },
+    {
+      "name": "Tanaka",
+      "team": "Leeds",
+      "influence": 212.8,
+      "price": 4.8
     },
     {
       "name": "Madueke",
@@ -1577,16 +1583,28 @@
       "price": 4.9
     },
     {
+      "name": "Barkley",
+      "team": "Aston Villa",
+      "influence": 205.6,
+      "price": 4.8
+    },
+    {
       "name": "Ward-Prowse",
       "team": "Burnley",
       "influence": 205.2,
       "price": 5.6
     },
     {
-      "name": "Barkley",
-      "team": "Aston Villa",
-      "influence": 200.6,
-      "price": 4.8
+      "name": "Marmoush",
+      "team": "Man City",
+      "influence": 203.2,
+      "price": 8.3
+    },
+    {
+      "name": "King",
+      "team": "Fulham",
+      "influence": 201,
+      "price": 4.4
     },
     {
       "name": "Gruev",
@@ -1595,28 +1613,10 @@
       "price": 4.7
     },
     {
-      "name": "King",
-      "team": "Fulham",
-      "influence": 198,
-      "price": 4.4
-    },
-    {
       "name": "Bellegarde",
       "team": "Wolves",
       "influence": 195.4,
       "price": 5.1
-    },
-    {
-      "name": "Tanaka",
-      "team": "Leeds",
-      "influence": 195.2,
-      "price": 4.8
-    },
-    {
-      "name": "Potts",
-      "team": "West Ham",
-      "influence": 191.2,
-      "price": 4.3
     }
   ],
   "Forwards": [
@@ -1629,56 +1629,56 @@
     {
       "name": "Thiago",
       "team": "Brentford",
-      "influence": 1000.8,
+      "influence": 1010.8,
       "price": 7.3
     },
     {
       "name": "Bowen",
       "team": "West Ham",
-      "influence": 816.2,
+      "influence": 827,
       "price": 7.7
     },
     {
       "name": "João Pedro",
       "team": "Chelsea",
       "influence": 758,
-      "price": 7.5
-    },
-    {
-      "name": "Welbeck",
-      "team": "Brighton",
-      "influence": 571,
-      "price": 6.4
+      "price": 7.4
     },
     {
       "name": "Watkins",
       "team": "Aston Villa",
-      "influence": 556.6,
-      "price": 8.8
-    },
-    {
-      "name": "Richarlison",
-      "team": "Spurs",
-      "influence": 547.4,
-      "price": 6.4
+      "influence": 646.8,
+      "price": 8.7
     },
     {
       "name": "Calvert-Lewin",
       "team": "Leeds",
-      "influence": 542.8,
+      "influence": 612.8,
       "price": 5.8
+    },
+    {
+      "name": "Welbeck",
+      "team": "Brighton",
+      "influence": 578.8,
+      "price": 6.4
+    },
+    {
+      "name": "Richarlison",
+      "team": "Spurs",
+      "influence": 553.2,
+      "price": 6.4
+    },
+    {
+      "name": "Mateta",
+      "team": "Crystal Palace",
+      "influence": 535.2,
+      "price": 7.6
     },
     {
       "name": "Gyökeres",
       "team": "Arsenal",
       "influence": 534.2,
-      "price": 8.9
-    },
-    {
-      "name": "Mateta",
-      "team": "Crystal Palace",
-      "influence": 530.6,
-      "price": 7.6
+      "price": 9.1
     },
     {
       "name": "Ekitiké",
@@ -1696,7 +1696,7 @@
       "name": "Šeško",
       "team": "Man Utd",
       "influence": 483.8,
-      "price": 7.3
+      "price": 7.2
     },
     {
       "name": "Raúl",
@@ -1707,74 +1707,92 @@
     {
       "name": "Beto",
       "team": "Everton",
-      "influence": 440.4,
-      "price": 5
+      "influence": 445.8,
+      "price": 5.1
+    },
+    {
+      "name": "Woltemade",
+      "team": "Newcastle",
+      "influence": 440.6,
+      "price": 6.7
     },
     {
       "name": "Flemming",
       "team": "Burnley",
-      "influence": 423,
+      "influence": 424,
       "price": 5.3
     },
     {
       "name": "Igor Jesus",
       "team": "Nott'm Forest",
-      "influence": 406,
+      "influence": 415,
       "price": 5.9
-    },
-    {
-      "name": "Woltemade",
-      "team": "Newcastle",
-      "influence": 397.8,
-      "price": 6.7
     },
     {
       "name": "Barry",
       "team": "Everton",
-      "influence": 337.8,
+      "influence": 340.8,
       "price": 5.7
     },
     {
       "name": "Evanilson",
       "team": "Bournemouth",
       "influence": 334.8,
-      "price": 6.7
+      "price": 6.6
     },
     {
       "name": "Brobbey",
       "team": "Sunderland",
-      "influence": 294,
+      "influence": 333.4,
       "price": 5.3
-    },
-    {
-      "name": "Nmecha",
-      "team": "Leeds",
-      "influence": 263.8,
-      "price": 5
     },
     {
       "name": "Mané",
       "team": "Wolves",
-      "influence": 262,
+      "influence": 308,
       "price": 4.2
     },
     {
-      "name": "Wilson",
-      "team": "West Ham",
-      "influence": 260.2,
-      "price": 5.8
+      "name": "Nmecha",
+      "team": "Leeds",
+      "influence": 283.2,
+      "price": 5
     },
     {
       "name": "Strand Larsen",
       "team": "Crystal Palace",
-      "influence": 258.4,
+      "influence": 265.2,
       "price": 5.9
+    },
+    {
+      "name": "Wilson",
+      "team": "West Ham",
+      "influence": 264.8,
+      "price": 5.8
+    },
+    {
+      "name": "Osula",
+      "team": "Newcastle",
+      "influence": 255.6,
+      "price": 5.4
+    },
+    {
+      "name": "Taty",
+      "team": "West Ham",
+      "influence": 247.6,
+      "price": 5.5
     },
     {
       "name": "Tolu",
       "team": "Wolves",
-      "influence": 235.4,
-      "price": 5.2
+      "influence": 247.4,
+      "price": 5.1
+    },
+    {
+      "name": "Isidor",
+      "team": "Sunderland",
+      "influence": 241.2,
+      "price": 5
     },
     {
       "name": "Foster",
@@ -1783,45 +1801,27 @@
       "price": 4.9
     },
     {
-      "name": "Taty",
-      "team": "West Ham",
-      "influence": 210,
-      "price": 5.5
-    },
-    {
-      "name": "Isidor",
-      "team": "Sunderland",
-      "influence": 205,
-      "price": 5
-    },
-    {
       "name": "Solanke",
       "team": "Spurs",
       "influence": 205,
       "price": 7.1
     },
     {
-      "name": "Osula",
-      "team": "Newcastle",
-      "influence": 186.4,
-      "price": 5.4
-    },
-    {
       "name": "Awoniyi",
       "team": "Nott'm Forest",
-      "influence": 176.6,
+      "influence": 177.2,
       "price": 5.2
     },
     {
       "name": "Kolo Muani",
       "team": "Spurs",
-      "influence": 164.8,
+      "influence": 169.6,
       "price": 6.9
     },
     {
       "name": "Zirkzee",
       "team": "Man Utd",
-      "influence": 155.6,
+      "influence": 164.4,
       "price": 5.8
     },
     {
@@ -1831,16 +1831,16 @@
       "price": 10.3
     },
     {
+      "name": "Kostoulas",
+      "team": "Brighton",
+      "influence": 139.8,
+      "price": 4.8
+    },
+    {
       "name": "Wood",
       "team": "Nott'm Forest",
       "influence": 134.4,
       "price": 7.1
-    },
-    {
-      "name": "Kostoulas",
-      "team": "Brighton",
-      "influence": 133.6,
-      "price": 4.8
     },
     {
       "name": "Nketiah",
@@ -1855,16 +1855,16 @@
       "price": 5.1
     },
     {
+      "name": "Muniz",
+      "team": "Fulham",
+      "influence": 113,
+      "price": 5.3
+    },
+    {
       "name": "Armstrong",
       "team": "Wolves",
       "influence": 113,
-      "price": 5.2
-    },
-    {
-      "name": "Muniz",
-      "team": "Fulham",
-      "influence": 110.8,
-      "price": 5.3
+      "price": 5.1
     },
     {
       "name": "G.Jesus",
@@ -1873,28 +1873,28 @@
       "price": 6.4
     },
     {
+      "name": "Pablo",
+      "team": "West Ham",
+      "influence": 105.2,
+      "price": 5.4
+    },
+    {
       "name": "Broja",
       "team": "Burnley",
       "influence": 102,
       "price": 5.2
     },
     {
-      "name": "Pablo",
-      "team": "West Ham",
-      "influence": 95.6,
-      "price": 5.4
-    },
-    {
       "name": "Havertz",
       "team": "Arsenal",
-      "influence": 93.8,
+      "influence": 93.6,
       "price": 7.3
     },
     {
       "name": "Abraham",
       "team": "Aston Villa",
       "influence": 87.2,
-      "price": 5.8
+      "price": 5.7
     },
     {
       "name": "Delap",
@@ -1909,16 +1909,16 @@
       "price": 5.2
     },
     {
+      "name": "Wissa",
+      "team": "Newcastle",
+      "influence": 56,
+      "price": 7.3
+    },
+    {
       "name": "Enes Ünal",
       "team": "Bournemouth",
       "influence": 55.8,
       "price": 5.4
-    },
-    {
-      "name": "Wissa",
-      "team": "Newcastle",
-      "influence": 55,
-      "price": 7.3
     }
   ]
 }
