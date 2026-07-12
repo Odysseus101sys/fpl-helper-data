@@ -80,64 +80,16 @@
     }
   },
   {
-    "fixture": "Liverpool FC vs Nottingham Forest FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Manchester United FC vs Ipswich Town FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Sunderland AFC vs Fulham FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
     "fixture": "Crystal Palace FC vs Manchester City FC",
-    "date": "2026-08-29T14:00:00Z",
+    "date": "2026-08-28T19:00:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
     }
   },
   {
-    "fixture": "Chelsea FC vs Brighton & Hove Albion FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Aston Villa FC vs Arsenal FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Tottenham Hotspur FC vs Newcastle United FC",
-    "date": "2026-08-29T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Leeds United FC vs Brentford FC",
-    "date": "2026-08-29T14:00:00Z",
+    "fixture": "Liverpool FC vs Nottingham Forest FC",
+    "date": "2026-08-29T11:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
@@ -154,6 +106,70 @@
   {
     "fixture": "Coventry City FC vs Hull City AFC",
     "date": "2026-08-29T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Tottenham Hotspur FC vs Newcastle United FC",
+    "date": "2026-08-29T16:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Sunderland AFC vs Fulham FC",
+    "date": "2026-08-30T13:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Chelsea FC vs Brighton & Hove Albion FC",
+    "date": "2026-08-30T13:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Leeds United FC vs Brentford FC",
+    "date": "2026-08-30T13:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Manchester United FC vs Ipswich Town FC",
+    "date": "2026-08-30T15:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Aston Villa FC vs Arsenal FC",
+    "date": "2026-08-31T19:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Ipswich Town FC vs Liverpool FC",
+    "date": "2026-09-04T19:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Newcastle United FC vs AFC Bournemouth",
+    "date": "2026-09-05T11:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
@@ -192,22 +208,6 @@
     }
   },
   {
-    "fixture": "Ipswich Town FC vs Liverpool FC",
-    "date": "2026-09-05T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Everton FC vs Manchester United FC",
-    "date": "2026-09-05T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
     "fixture": "Fulham FC vs Crystal Palace FC",
     "date": "2026-09-05T14:00:00Z",
     "difficulty": {
@@ -217,7 +217,15 @@
   },
   {
     "fixture": "Hull City AFC vs Aston Villa FC",
-    "date": "2026-09-05T14:00:00Z",
+    "date": "2026-09-05T16:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Everton FC vs Manchester United FC",
+    "date": "2026-09-06T13:00:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
@@ -225,15 +233,7 @@
   },
   {
     "fixture": "Arsenal FC vs Chelsea FC",
-    "date": "2026-09-05T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Newcastle United FC vs AFC Bournemouth",
-    "date": "2026-09-05T14:00:00Z",
+    "date": "2026-09-06T15:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
@@ -264,47 +264,7 @@
     }
   },
   {
-    "fixture": "Tottenham Hotspur FC vs Everton FC",
-    "date": "2026-09-12T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
     "fixture": "AFC Bournemouth vs Brentford FC",
-    "date": "2026-09-12T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Sunderland AFC vs Arsenal FC",
-    "date": "2026-09-12T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Coventry City FC vs Brighton & Hove Albion FC",
-    "date": "2026-09-12T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Leeds United FC vs Newcastle United FC",
-    "date": "2026-09-12T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Manchester United FC vs Manchester City FC",
     "date": "2026-09-12T14:00:00Z",
     "difficulty": {
       "homeFDR": 1,
@@ -320,16 +280,56 @@
     }
   },
   {
-    "fixture": "AFC Bournemouth vs Liverpool FC",
-    "date": "2026-09-19T14:00:00Z",
+    "fixture": "Tottenham Hotspur FC vs Everton FC",
+    "date": "2026-09-12T16:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
     }
   },
   {
-    "fixture": "Fulham FC vs Manchester United FC",
-    "date": "2026-09-19T14:00:00Z",
+    "fixture": "Sunderland AFC vs Arsenal FC",
+    "date": "2026-09-12T19:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Coventry City FC vs Brighton & Hove Albion FC",
+    "date": "2026-09-13T13:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Manchester United FC vs Manchester City FC",
+    "date": "2026-09-13T15:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Leeds United FC vs Newcastle United FC",
+    "date": "2026-09-14T19:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Brentford FC vs Chelsea FC",
+    "date": "2026-09-18T19:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Tottenham Hotspur FC vs Aston Villa FC",
+    "date": "2026-09-19T11:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
@@ -360,23 +360,7 @@
     }
   },
   {
-    "fixture": "Tottenham Hotspur FC vs Aston Villa FC",
-    "date": "2026-09-19T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
     "fixture": "Newcastle United FC vs Hull City AFC",
-    "date": "2026-09-19T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Nottingham Forest FC vs Coventry City FC",
     "date": "2026-09-19T14:00:00Z",
     "difficulty": {
       "homeFDR": 1,
@@ -392,8 +376,24 @@
     }
   },
   {
-    "fixture": "Brentford FC vs Chelsea FC",
-    "date": "2026-09-19T14:00:00Z",
+    "fixture": "Nottingham Forest FC vs Coventry City FC",
+    "date": "2026-09-19T16:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "AFC Bournemouth vs Liverpool FC",
+    "date": "2026-09-20T13:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Fulham FC vs Manchester United FC",
+    "date": "2026-09-20T15:30:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
