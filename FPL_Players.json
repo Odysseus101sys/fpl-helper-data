@@ -134,7 +134,7 @@
     },
     {
       "name": "Trafford",
-      "team": "Man City",
+      "team": "Leeds",
       "influence": 118,
       "price": 5
     }
@@ -1272,7 +1272,7 @@
     },
     {
       "name": "Henderson",
-      "team": "Brentford",
+      "team": "Chelsea",
       "influence": 336.6,
       "price": 5
     },
@@ -1658,7 +1658,7 @@
     },
     {
       "name": "Welbeck",
-      "team": "Brighton",
+      "team": "Chelsea",
       "influence": 578.8,
       "price": 6
     },
