@@ -876,7 +876,7 @@
     },
     {
       "name": "Bruno G.",
-      "team": "Newcastle",
+      "team": "Arsenal",
       "influence": 782.4,
       "price": 7
     },
@@ -1320,7 +1320,7 @@
     },
     {
       "name": "Lukić",
-      "team": "Fulham",
+      "team": "Ipswich Town",
       "influence": 317.6,
       "price": 5
     },
@@ -1464,7 +1464,7 @@
     },
     {
       "name": "Johnson",
-      "team": "Crystal Palace",
+      "team": "Everton",
       "influence": 223.4,
       "price": 6
     },
@@ -1566,7 +1566,7 @@
     },
     {
       "name": "Guessand",
-      "team": "Aston Villa",
+      "team": "Crystal Palace",
       "influence": 159.4,
       "price": 5.5
     },
@@ -1596,7 +1596,7 @@
     },
     {
       "name": "McNeil",
-      "team": "Everton",
+      "team": "Crystal Palace",
       "influence": 140.6,
       "price": 5.5
     },
@@ -1891,6 +1891,12 @@
       "price": 4.5
     },
     {
+      "name": "Madjo",
+      "team": "Aston Villa",
+      "influence": 0,
+      "price": 5.5
+    },
+    {
       "name": "Rodríguez",
       "team": "Bournemouth",
       "influence": 0,
@@ -1913,12 +1919,6 @@
       "team": "Brighton",
       "influence": 0,
       "price": 5
-    },
-    {
-      "name": "N.Jackson",
-      "team": "Chelsea",
-      "influence": 0,
-      "price": 6.5
     }
   ]
 }
