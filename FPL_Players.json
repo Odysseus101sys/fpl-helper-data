@@ -94,7 +94,7 @@
       "name": "Henderson",
       "team": "Crystal Palace",
       "influence": 96.8,
-      "price": 5
+      "price": 4.9
     },
     {
       "name": "Petrović",
@@ -156,7 +156,7 @@
       "name": "Tarkowski",
       "team": "Everton",
       "influence": 149.6,
-      "price": 6.1
+      "price": 6.2
     },
     {
       "name": "Muharemović",
@@ -198,7 +198,7 @@
       "name": "Richards",
       "team": "Crystal Palace",
       "influence": 131.4,
-      "price": 5
+      "price": 4.9
     },
     {
       "name": "O'Shea",
@@ -468,7 +468,7 @@
       "name": "Kerkez",
       "team": "Liverpool",
       "influence": 75.4,
-      "price": 5.4
+      "price": 5.3
     },
     {
       "name": "Lindelöf",
@@ -522,7 +522,7 @@
       "name": "Martinez",
       "team": "Man Utd",
       "influence": 66.4,
-      "price": 5
+      "price": 4.9
     },
     {
       "name": "Kayode",
@@ -576,7 +576,7 @@
       "name": "James",
       "team": "Chelsea",
       "influence": 56.2,
-      "price": 5.4
+      "price": 5.3
     },
     {
       "name": "Danso",
@@ -830,7 +830,7 @@
       "name": "Groß",
       "team": "Brighton",
       "influence": 211,
-      "price": 5.8
+      "price": 5.9
     },
     {
       "name": "B.Fernandes",
@@ -950,7 +950,7 @@
       "name": "Szoboszlai",
       "team": "Liverpool",
       "influence": 108.8,
-      "price": 7
+      "price": 6.9
     },
     {
       "name": "Barnes",
@@ -1544,7 +1544,7 @@
       "name": "I.Sangaré",
       "team": "Nott'm Forest",
       "influence": 21.6,
-      "price": 4.9
+      "price": 4.8
     },
     {
       "name": "Tel",
@@ -1586,7 +1586,7 @@
       "name": "Diarra",
       "team": "Sunderland",
       "influence": 15.6,
-      "price": 5.4
+      "price": 5.3
     },
     {
       "name": "Mason-Clark",
