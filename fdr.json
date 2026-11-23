@@ -1,82 +1,10 @@
 [
   {
-    "fixture": "Manchester City FC vs Fulham FC",
-    "date": "2026-11-21T12:30:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Chelsea FC vs Leeds United FC",
-    "date": "2026-11-21T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Aston Villa FC vs Sunderland AFC",
-    "date": "2026-11-21T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "AFC Bournemouth vs Nottingham Forest FC",
-    "date": "2026-11-21T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Tottenham Hotspur FC vs Ipswich Town FC",
-    "date": "2026-11-21T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Coventry City FC vs Crystal Palace FC",
-    "date": "2026-11-21T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "Newcastle United FC vs Arsenal FC",
-    "date": "2026-11-21T17:30:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Hull City AFC vs Brighton & Hove Albion FC",
-    "date": "2026-11-22T14:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Liverpool FC vs Manchester United FC",
-    "date": "2026-11-22T16:30:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 1
-    }
-  },
-  {
     "fixture": "Brentford FC vs Everton FC",
     "date": "2026-11-23T20:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
@@ -91,15 +19,15 @@
     "fixture": "Leeds United FC vs Coventry City FC",
     "date": "2026-11-28T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
+      "homeFDR": 4,
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Manchester United FC vs Brentford FC",
     "date": "2026-11-28T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -131,7 +59,7 @@
     "fixture": "Brighton & Hove Albion FC vs Newcastle United FC",
     "date": "2026-11-29T14:05:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 1
     }
   },
@@ -147,7 +75,7 @@
     "fixture": "Crystal Palace FC vs Hull City AFC",
     "date": "2026-11-29T14:05:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -164,7 +92,7 @@
     "date": "2026-12-01T20:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -180,7 +108,7 @@
     "date": "2026-12-02T19:30:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
@@ -195,7 +123,7 @@
     "fixture": "Manchester City FC vs Leeds United FC",
     "date": "2026-12-02T19:30:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 1
     }
   },
@@ -212,7 +140,7 @@
     "date": "2026-12-02T20:15:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
@@ -220,7 +148,7 @@
     "date": "2026-12-02T20:15:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -251,7 +179,7 @@
     "fixture": "Manchester United FC vs Coventry City FC",
     "date": "2026-12-05T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 5
     }
   },
@@ -260,14 +188,14 @@
     "date": "2026-12-05T15:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
     "fixture": "AFC Bournemouth vs Hull City AFC",
     "date": "2026-12-05T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 2
     }
   },
@@ -292,7 +220,7 @@
     "date": "2026-12-05T20:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
@@ -300,7 +228,7 @@
     "date": "2026-12-06T14:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -323,7 +251,7 @@
     "fixture": "Ipswich Town FC vs Newcastle United FC",
     "date": "2026-12-12T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 4
     }
   },
@@ -331,7 +259,7 @@
     "fixture": "Liverpool FC vs Leeds United FC",
     "date": "2026-12-12T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 1
     }
   },
@@ -339,7 +267,7 @@
     "fixture": "Fulham FC vs Brentford FC",
     "date": "2026-12-12T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 4
     }
   },
@@ -380,7 +308,7 @@
     "date": "2026-12-13T16:30:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -396,15 +324,15 @@
     "date": "2026-12-14T20:00:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Brentford FC vs Newcastle United FC",
     "date": "2026-12-19T12:30:00Z",
     "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 2
+      "homeFDR": 4,
+      "awayFDR": 3
     }
   },
   {
@@ -412,14 +340,14 @@
     "date": "2026-12-19T15:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Manchester City FC vs Hull City AFC",
     "date": "2026-12-19T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -427,7 +355,7 @@
     "fixture": "AFC Bournemouth vs Coventry City FC",
     "date": "2026-12-19T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 2
     }
   },
@@ -483,7 +411,7 @@
     "fixture": "Aston Villa FC vs Leeds United FC",
     "date": "2026-12-26T12:30:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 3
     }
   },
@@ -515,7 +443,7 @@
     "fixture": "Ipswich Town FC vs Brentford FC",
     "date": "2026-12-26T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 4
     }
   },
@@ -524,7 +452,7 @@
     "date": "2026-12-26T17:30:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
@@ -532,7 +460,7 @@
     "date": "2026-12-26T20:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -540,7 +468,7 @@
     "date": "2026-12-27T14:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -563,8 +491,8 @@
     "fixture": "Hull City AFC vs Leeds United FC",
     "date": "2026-12-29T19:30:00Z",
     "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 4
+      "homeFDR": 2,
+      "awayFDR": 3
     }
   },
   {
@@ -595,8 +523,8 @@
     "fixture": "Coventry City FC vs Brentford FC",
     "date": "2026-12-30T19:30:00Z",
     "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 5
+      "homeFDR": 3,
+      "awayFDR": 4
     }
   },
   {
@@ -604,7 +532,7 @@
     "date": "2026-12-30T19:30:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -644,7 +572,7 @@
     "date": "2027-01-01T20:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -660,7 +588,7 @@
     "date": "2027-01-02T15:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
@@ -675,7 +603,7 @@
     "fixture": "Sunderland AFC vs Hull City AFC",
     "date": "2027-01-02T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -683,7 +611,7 @@
     "fixture": "Liverpool FC vs Coventry City FC",
     "date": "2027-01-02T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 1
     }
   },
@@ -707,7 +635,7 @@
     "fixture": "Chelsea FC vs Newcastle United FC",
     "date": "2027-01-03T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 2
     }
   },
@@ -723,7 +651,7 @@
     "fixture": "Arsenal FC vs Brentford FC",
     "date": "2027-01-05T19:30:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -739,7 +667,7 @@
     "fixture": "Nottingham Forest FC vs Hull City AFC",
     "date": "2027-01-05T19:30:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -779,7 +707,7 @@
     "fixture": "Ipswich Town FC vs Coventry City FC",
     "date": "2027-01-06T19:30:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 4
     }
   },
@@ -788,23 +716,23 @@
     "date": "2027-01-06T20:15:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Manchester United FC vs Newcastle United FC",
     "date": "2027-01-07T20:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 5
     }
   },
   {
-    "fixture": "AFC Bournemouth vs Ipswich Town FC",
-    "date": "2027-01-16T15:00:00Z",
+    "fixture": "Coventry City FC vs Everton FC",
+    "date": "2027-01-16T12:30:00Z",
     "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 2
+      "homeFDR": 2,
+      "awayFDR": 4
     }
   },
   {
@@ -824,38 +752,6 @@
     }
   },
   {
-    "fixture": "Brentford FC vs Brighton & Hove Albion FC",
-    "date": "2027-01-16T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Aston Villa FC vs Manchester United FC",
-    "date": "2027-01-16T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Tottenham Hotspur FC vs Leeds United FC",
-    "date": "2027-01-16T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Coventry City FC vs Everton FC",
-    "date": "2027-01-16T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 5
-    }
-  },
-  {
     "fixture": "Liverpool FC vs Crystal Palace FC",
     "date": "2027-01-16T15:00:00Z",
     "difficulty": {
@@ -868,7 +764,7 @@
     "date": "2027-01-16T15:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
@@ -876,6 +772,38 @@
     "date": "2027-01-16T15:00:00Z",
     "difficulty": {
       "homeFDR": 4,
+      "awayFDR": 4
+    }
+  },
+  {
+    "fixture": "Aston Villa FC vs Manchester United FC",
+    "date": "2027-01-16T17:30:00Z",
+    "difficulty": {
+      "homeFDR": 5,
+      "awayFDR": 3
+    }
+  },
+  {
+    "fixture": "AFC Bournemouth vs Ipswich Town FC",
+    "date": "2027-01-17T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 4,
+      "awayFDR": 2
+    }
+  },
+  {
+    "fixture": "Tottenham Hotspur FC vs Leeds United FC",
+    "date": "2027-01-17T16:30:00Z",
+    "difficulty": {
+      "homeFDR": 2,
+      "awayFDR": 3
+    }
+  },
+  {
+    "fixture": "Brentford FC vs Brighton & Hove Albion FC",
+    "date": "2027-01-18T20:00:00Z",
+    "difficulty": {
+      "homeFDR": 1,
       "awayFDR": 3
     }
   },
@@ -883,48 +811,8 @@
     "fixture": "Ipswich Town FC vs Hull City AFC",
     "date": "2027-01-23T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Everton FC vs Brentford FC",
-    "date": "2027-01-23T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Sunderland AFC vs Coventry City FC",
-    "date": "2027-01-23T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "Nottingham Forest FC vs AFC Bournemouth",
-    "date": "2027-01-23T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "Arsenal FC vs Newcastle United FC",
-    "date": "2027-01-23T15:00:00Z",
-    "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Leeds United FC vs Chelsea FC",
-    "date": "2027-01-23T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -936,43 +824,75 @@
     }
   },
   {
-    "fixture": "Manchester United FC vs Liverpool FC",
-    "date": "2027-01-23T15:00:00Z",
+    "fixture": "Arsenal FC vs Newcastle United FC",
+    "date": "2027-01-23T17:30:00Z",
     "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 5
+      "homeFDR": 4,
+      "awayFDR": 1
     }
   },
   {
     "fixture": "Brighton & Hove Albion FC vs Manchester City FC",
-    "date": "2027-01-23T15:00:00Z",
+    "date": "2027-01-23T20:00:00Z",
     "difficulty": {
       "homeFDR": 1,
       "awayFDR": 1
     }
   },
   {
+    "fixture": "Everton FC vs Brentford FC",
+    "date": "2027-01-24T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 3,
+      "awayFDR": 2
+    }
+  },
+  {
+    "fixture": "Sunderland AFC vs Coventry City FC",
+    "date": "2027-01-24T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 4,
+      "awayFDR": 5
+    }
+  },
+  {
+    "fixture": "Nottingham Forest FC vs AFC Bournemouth",
+    "date": "2027-01-24T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 2,
+      "awayFDR": 5
+    }
+  },
+  {
     "fixture": "Crystal Palace FC vs Tottenham Hotspur FC",
-    "date": "2027-01-23T15:00:00Z",
+    "date": "2027-01-24T14:00:00Z",
     "difficulty": {
       "homeFDR": 3,
       "awayFDR": 5
     }
   },
   {
-    "fixture": "Tottenham Hotspur FC vs Sunderland AFC",
-    "date": "2027-01-30T15:00:00Z",
+    "fixture": "Manchester United FC vs Liverpool FC",
+    "date": "2027-01-24T16:30:00Z",
     "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
+      "homeFDR": 1,
+      "awayFDR": 5
     }
   },
   {
-    "fixture": "Brentford FC vs Manchester United FC",
-    "date": "2027-01-30T15:00:00Z",
+    "fixture": "Leeds United FC vs Chelsea FC",
+    "date": "2027-01-25T20:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 2,
       "awayFDR": 2
+    }
+  },
+  {
+    "fixture": "Liverpool FC vs Everton FC",
+    "date": "2027-01-30T12:30:00Z",
+    "difficulty": {
+      "homeFDR": 2,
+      "awayFDR": 1
     }
   },
   {
@@ -980,55 +900,7 @@
     "date": "2027-01-30T15:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
-    }
-  },
-  {
-    "fixture": "Hull City AFC vs Crystal Palace FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
       "awayFDR": 4
-    }
-  },
-  {
-    "fixture": "Coventry City FC vs Leeds United FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 5
-    }
-  },
-  {
-    "fixture": "AFC Bournemouth vs Fulham FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Chelsea FC vs Nottingham Forest FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 2
-    }
-  },
-  {
-    "fixture": "Liverpool FC vs Everton FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 1
-    }
-  },
-  {
-    "fixture": "Manchester City FC vs Arsenal FC",
-    "date": "2027-01-30T15:00:00Z",
-    "difficulty": {
-      "homeFDR": 1,
-      "awayFDR": 1
     }
   },
   {
@@ -1036,6 +908,62 @@
     "date": "2027-01-30T15:00:00Z",
     "difficulty": {
       "homeFDR": 4,
+      "awayFDR": 3
+    }
+  },
+  {
+    "fixture": "Chelsea FC vs Nottingham Forest FC",
+    "date": "2027-01-30T17:30:00Z",
+    "difficulty": {
+      "homeFDR": 5,
+      "awayFDR": 2
+    }
+  },
+  {
+    "fixture": "Tottenham Hotspur FC vs Sunderland AFC",
+    "date": "2027-01-31T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 5,
+      "awayFDR": 3
+    }
+  },
+  {
+    "fixture": "Hull City AFC vs Crystal Palace FC",
+    "date": "2027-01-31T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 5,
+      "awayFDR": 3
+    }
+  },
+  {
+    "fixture": "Coventry City FC vs Leeds United FC",
+    "date": "2027-01-31T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 2,
+      "awayFDR": 4
+    }
+  },
+  {
+    "fixture": "AFC Bournemouth vs Fulham FC",
+    "date": "2027-01-31T14:00:00Z",
+    "difficulty": {
+      "homeFDR": 4,
+      "awayFDR": 2
+    }
+  },
+  {
+    "fixture": "Manchester City FC vs Arsenal FC",
+    "date": "2027-01-31T16:30:00Z",
+    "difficulty": {
+      "homeFDR": 1,
+      "awayFDR": 1
+    }
+  },
+  {
+    "fixture": "Brentford FC vs Manchester United FC",
+    "date": "2027-02-01T20:00:00Z",
+    "difficulty": {
+      "homeFDR": 5,
       "awayFDR": 3
     }
   },
@@ -1051,7 +979,7 @@
     "fixture": "Brighton & Hove Albion FC vs Hull City AFC",
     "date": "2027-02-06T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -1067,7 +995,7 @@
     "fixture": "Crystal Palace FC vs Coventry City FC",
     "date": "2027-02-06T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 5
     }
   },
@@ -1083,7 +1011,7 @@
     "fixture": "Everton FC vs Newcastle United FC",
     "date": "2027-02-06T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 2
     }
   },
@@ -1100,7 +1028,7 @@
     "date": "2027-02-06T15:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -1115,7 +1043,7 @@
     "fixture": "Nottingham Forest FC vs Brentford FC",
     "date": "2027-02-06T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -1123,7 +1051,7 @@
     "fixture": "Everton FC vs Leeds United FC",
     "date": "2027-02-10T20:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 2
     }
   },
@@ -1132,7 +1060,7 @@
     "date": "2027-02-10T20:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -1140,7 +1068,7 @@
     "date": "2027-02-10T20:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
@@ -1155,7 +1083,7 @@
     "fixture": "Crystal Palace FC vs Brentford FC",
     "date": "2027-02-10T20:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -1164,7 +1092,7 @@
     "date": "2027-02-10T20:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -1203,7 +1131,7 @@
     "fixture": "Manchester City FC vs Newcastle United FC",
     "date": "2027-02-20T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 1
     }
   },
@@ -1219,8 +1147,8 @@
     "fixture": "Brentford FC vs Coventry City FC",
     "date": "2027-02-20T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 2
+      "homeFDR": 4,
+      "awayFDR": 3
     }
   },
   {
@@ -1235,7 +1163,7 @@
     "fixture": "Liverpool FC vs Hull City AFC",
     "date": "2027-02-20T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -1276,7 +1204,7 @@
     "date": "2027-02-20T15:00:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -1308,7 +1236,7 @@
     "date": "2027-02-27T15:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -1323,7 +1251,7 @@
     "fixture": "Fulham FC vs Leeds United FC",
     "date": "2027-02-27T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 4
     }
   },
@@ -1347,8 +1275,8 @@
     "fixture": "Newcastle United FC vs Brentford FC",
     "date": "2027-02-27T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
-      "awayFDR": 3
+      "homeFDR": 3,
+      "awayFDR": 4
     }
   },
   {
@@ -1356,14 +1284,14 @@
     "date": "2027-02-27T15:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Nottingham Forest FC vs Newcastle United FC",
     "date": "2027-03-03T20:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 5
     }
   },
@@ -1395,8 +1323,8 @@
     "fixture": "Leeds United FC vs Hull City AFC",
     "date": "2027-03-03T20:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 3
+      "homeFDR": 3,
+      "awayFDR": 2
     }
   },
   {
@@ -1428,14 +1356,14 @@
     "date": "2027-03-03T20:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Chelsea FC vs Coventry City FC",
     "date": "2027-03-03T20:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 2
     }
   },
@@ -1444,7 +1372,7 @@
     "date": "2027-03-13T15:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -1476,14 +1404,14 @@
     "date": "2027-03-13T15:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
     "fixture": "AFC Bournemouth vs Newcastle United FC",
     "date": "2027-03-13T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 2
     }
   },
@@ -1499,7 +1427,7 @@
     "fixture": "Aston Villa FC vs Hull City AFC",
     "date": "2027-03-13T15:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 3
     }
   },
@@ -1515,7 +1443,7 @@
     "fixture": "Sunderland AFC vs Brentford FC",
     "date": "2027-03-13T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -1524,14 +1452,14 @@
     "date": "2027-03-20T15:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Brighton & Hove Albion FC vs Coventry City FC",
     "date": "2027-03-20T15:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 1
     }
   },
@@ -1572,7 +1500,7 @@
     "date": "2027-03-20T15:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
@@ -1595,8 +1523,8 @@
     "fixture": "Newcastle United FC vs Leeds United FC",
     "date": "2027-03-20T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 3
+      "homeFDR": 2,
+      "awayFDR": 4
     }
   },
   {
@@ -1612,14 +1540,14 @@
     "date": "2027-04-10T14:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Manchester United FC vs Hull City AFC",
     "date": "2027-04-10T14:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 5
     }
   },
@@ -1635,7 +1563,7 @@
     "fixture": "Liverpool FC vs Newcastle United FC",
     "date": "2027-04-10T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 1
     }
   },
@@ -1644,7 +1572,7 @@
     "date": "2027-04-10T14:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -1667,7 +1595,7 @@
     "fixture": "Tottenham Hotspur FC vs Brentford FC",
     "date": "2027-04-10T14:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 3
     }
   },
@@ -1699,8 +1627,8 @@
     "fixture": "Brentford FC vs Leeds United FC",
     "date": "2027-04-17T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 2
+      "homeFDR": 2,
+      "awayFDR": 3
     }
   },
   {
@@ -1715,8 +1643,8 @@
     "fixture": "Hull City AFC vs Coventry City FC",
     "date": "2027-04-17T14:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 4
+      "homeFDR": 4,
+      "awayFDR": 3
     }
   },
   {
@@ -1748,7 +1676,7 @@
     "date": "2027-04-17T14:00:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -1779,7 +1707,7 @@
     "fixture": "Tottenham Hotspur FC vs Hull City AFC",
     "date": "2027-04-24T14:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 3
     }
   },
@@ -1812,14 +1740,14 @@
     "date": "2027-04-24T14:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
     "fixture": "Aston Villa FC vs Coventry City FC",
     "date": "2027-04-24T14:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 3
     }
   },
@@ -1828,7 +1756,7 @@
     "date": "2027-04-24T14:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
@@ -1836,14 +1764,14 @@
     "date": "2027-04-24T14:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
     "fixture": "Sunderland AFC vs Newcastle United FC",
     "date": "2027-05-01T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 5
     }
   },
@@ -1860,7 +1788,7 @@
     "date": "2027-05-01T14:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -1868,14 +1796,14 @@
     "date": "2027-05-01T14:00:00Z",
     "difficulty": {
       "homeFDR": 2,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Manchester City FC vs Brentford FC",
     "date": "2027-05-01T14:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -1915,7 +1843,7 @@
     "fixture": "Ipswich Town FC vs Leeds United FC",
     "date": "2027-05-01T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 4
     }
   },
@@ -1932,7 +1860,7 @@
     "date": "2027-05-08T14:00:00Z",
     "difficulty": {
       "homeFDR": 1,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -1956,15 +1884,15 @@
     "date": "2027-05-08T14:00:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 2
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Newcastle United FC vs Coventry City FC",
     "date": "2027-05-08T14:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
-      "awayFDR": 3
+      "homeFDR": 4,
+      "awayFDR": 4
     }
   },
   {
@@ -1987,7 +1915,7 @@
     "fixture": "Everton FC vs Hull City AFC",
     "date": "2027-05-08T14:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
+      "homeFDR": 3,
       "awayFDR": 2
     }
   },
@@ -2004,14 +1932,14 @@
     "date": "2027-05-15T14:00:00Z",
     "difficulty": {
       "homeFDR": 4,
-      "awayFDR": 4
+      "awayFDR": 3
     }
   },
   {
     "fixture": "Manchester United FC vs Leeds United FC",
     "date": "2027-05-15T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 5
     }
   },
@@ -2027,7 +1955,7 @@
     "fixture": "Aston Villa FC vs Newcastle United FC",
     "date": "2027-05-15T14:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 4,
       "awayFDR": 3
     }
   },
@@ -2044,7 +1972,7 @@
     "date": "2027-05-15T14:00:00Z",
     "difficulty": {
       "homeFDR": 3,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -2059,7 +1987,7 @@
     "fixture": "Liverpool FC vs Brentford FC",
     "date": "2027-05-15T14:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 1
     }
   },
@@ -2083,8 +2011,8 @@
     "fixture": "Brentford FC vs Hull City AFC",
     "date": "2027-05-23T14:00:00Z",
     "difficulty": {
-      "homeFDR": 4,
-      "awayFDR": 2
+      "homeFDR": 3,
+      "awayFDR": 3
     }
   },
   {
@@ -2092,7 +2020,7 @@
     "date": "2027-05-23T14:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 4
     }
   },
   {
@@ -2108,7 +2036,7 @@
     "date": "2027-05-23T14:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 3
+      "awayFDR": 2
     }
   },
   {
@@ -2139,7 +2067,7 @@
     "fixture": "Fulham FC vs Coventry City FC",
     "date": "2027-05-23T14:00:00Z",
     "difficulty": {
-      "homeFDR": 5,
+      "homeFDR": 4,
       "awayFDR": 4
     }
   },
@@ -2188,7 +2116,7 @@
     "date": "2027-05-30T15:00:00Z",
     "difficulty": {
       "homeFDR": 5,
-      "awayFDR": 5
+      "awayFDR": 4
     }
   },
   {
@@ -2203,8 +2131,8 @@
     "fixture": "Hull City AFC vs Newcastle United FC",
     "date": "2027-05-30T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
-      "awayFDR": 4
+      "homeFDR": 4,
+      "awayFDR": 3
     }
   },
   {
@@ -2227,7 +2155,7 @@
     "fixture": "Chelsea FC vs Brentford FC",
     "date": "2027-05-30T15:00:00Z",
     "difficulty": {
-      "homeFDR": 2,
+      "homeFDR": 3,
       "awayFDR": 2
     }
   },
@@ -2235,7 +2163,7 @@
     "fixture": "Crystal Palace FC vs Leeds United FC",
     "date": "2027-05-30T15:00:00Z",
     "difficulty": {
-      "homeFDR": 3,
+      "homeFDR": 2,
       "awayFDR": 5
     }
   }
